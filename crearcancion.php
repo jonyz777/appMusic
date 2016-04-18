@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 $usuario = $_SESSION['usuario'];
 $contrasena = $_SESSION['contrasena'];
 
